@@ -85,11 +85,20 @@ nav {
 
 /* Main */
 main {
-    background-color: lightblue;
+    
     /* Make main element take up suplus space to push footer down */
     flex: 1 0 auto;
     margin-top: 47px;
 }
+
+/* Hero section */
+
+#hero {
+    background: url(../images/hero-image.webp) no-repeat center center/cover;
+    height: 600px;
+    width: 100%;
+}    
+
 /* Footer */
 #social-networks {
     text-align: center;
