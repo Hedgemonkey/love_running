@@ -193,6 +193,7 @@ main {
 
 /* Gallery page styles */
 
+<<<<<<< HEAD
 #photos img {
     width: 100%;
     line-height: 1em;
@@ -250,6 +251,8 @@ main {
 }
 
 
+=======
+>>>>>>> 30310d4 (Update: Added images to gallery and relevent HTML)
 /* Footer */
 
 #social-networks {
