@@ -344,6 +344,7 @@ main {
     #photos {
         column-count: 3;
     }
+<<<<<<< HEAD
 
     /* Signup CSS */
 
@@ -367,6 +368,8 @@ main {
         background-color: #fafafa;
         color: #454b1b;
     }
+=======
+>>>>>>> 067a826 (Update: Increased gallery columns on larger screens in CSS)
 }
 
 
