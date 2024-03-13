@@ -194,6 +194,9 @@ main {
 /* Gallery page styles */
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 3cb5335 (Update: Added styling for mobile screen size for gallery)
 #photos img {
     width: 100%;
     line-height: 1em;
@@ -203,6 +206,7 @@ main {
     line-height: 0;
 }
 
+<<<<<<< HEAD
 /* Sign Up Page Styles */
 
 #signup {
@@ -253,6 +257,8 @@ main {
 
 =======
 >>>>>>> 30310d4 (Update: Added images to gallery and relevent HTML)
+=======
+>>>>>>> 3cb5335 (Update: Added styling for mobile screen size for gallery)
 /* Footer */
 
 #social-networks {
